@@ -45,7 +45,7 @@ var logo = `
 `
 
 const MINBALANCE = 2000000000
-const POTXADDR = "0x5487147D1cd072f5C59a35E4588005861B024eF3"
+const POTXADDR = "0xE8113f47a91296528DE42d65b772504B086E0b0c"
 
 var mintCmd = &cobra.Command{
 	Use:   "mine",
