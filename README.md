@@ -1,3 +1,9 @@
+# Introduce
+* POTX is a Experiment projext, mining with transaction
+* Supply 21000.
+* Fair Launch, no cpu racer.
+* mining difficulty is increasing.
+
 ### Prepare
 
 * Install Golang Compiler
